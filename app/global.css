@@ -149,3 +149,8 @@ table {
   text-wrap: balance;
 }
 
+.img {
+  max-width: fit-content;
+  float: right;
+  
+}
