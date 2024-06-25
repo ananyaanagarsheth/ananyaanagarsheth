@@ -11,7 +11,9 @@ export default function Page() {
         a degree in materials science and engineering with a minor in Mathematics. `}
       </p>
       <div className="my-8">
-        <BlogPosts />
+        <img src="uiuc.jpeg" alt="uni photo">
+        </img>
+
       </div>
     </section>
   )
