@@ -1,6 +1,6 @@
 export default function Page() {
   return (
-    <section className="grid grid-cols-2 container mx-auto" >
+    <section className="grid grid-cols-2 grid-rows-2 gap-4 container mx-auto" >
       <div className="col-span-2">
 
       
@@ -12,7 +12,7 @@ export default function Page() {
         a degree in materials science and engineering with a minor in Mathematics. `}
       </p>
       </div>
-      <div className="col-span-2">
+      <div className="col-span-2 row-span-1">
       <h2 className='text-2xl mb-3'>Skills</h2>
        <ul className="mb-4">
           <li>CAD-Solidworks</li>
@@ -22,7 +22,7 @@ export default function Page() {
           </ul>
       </div>
 
-      <div className="my-8 col-span-1">
+      <div className="my-8 col-span-1 text-right row-span-2">
         <img src="uiuc.jpeg" alt="uni photo" className="col-span-2 float-right">
         </img>
       </div>
