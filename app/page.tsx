@@ -4,7 +4,7 @@ export default function Page() {
   return (
     <section>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-        Ananyaa Nagarahsteh
+        Ananyaa Nagarsheth
       </h1>
       <p className="mb-4">
         {`I'm a rising junior at the University of Illinois at Urbana-Champaign, pursuing 
@@ -16,7 +16,7 @@ export default function Page() {
       </div>
       <div>
         <h2 className='text-2xl mb-3'>Skills</h2>
-       <ul>
+       <ul className="mb-4">
           <li>CAD-Solidwords</li>
           <li>Programming: HTML, CSS, Github, Python, R, Javascript,
                            React, Next.js, Vercel
