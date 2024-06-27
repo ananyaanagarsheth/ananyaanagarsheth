@@ -152,5 +152,5 @@ table {
 img {
 
   height: 300px;
-  text-wrap:wrap;
+  text-wrap:nowrap;
 }
