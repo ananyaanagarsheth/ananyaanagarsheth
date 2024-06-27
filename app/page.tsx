@@ -1,13 +1,14 @@
 export default function Page() {
   return (
-    <section className="grid grid-cols-2 gap-4 " >
-    <div className="">
-    <h1 className="mb-8 text-2xl font-semibold tracking-normal">
+  <section className="grid grid-cols-2 gap-4 " >
+    
+      <div className="">
+      <h1 className="mb-8 text-2xl font-semibold tracking-normal">
       Ananyaa Nagarsheth
-    </h1>
-    <p className="mb-4 tracking-normal ">
+      </h1>
+      <p className="mb-4 tracking-normal ">
        {`I'm a rising junior at the University of Illinois at Urbana-Champaign, pursuing 
-        a degree in materials science and engineering with a minor in Mathematics. `}
+        a degree in Materials Science and Engineering with a minor in Mathematics. `}
       </p>
       <div className=" ">
       <h2 className='text-2xl mb-3'>Skills</h2>
@@ -23,6 +24,8 @@ export default function Page() {
         <img src="ananyaa.jpg" alt="my photo" className=" float-right row-span-2">
         </img>
       </div>
+
+    
       
 
       
