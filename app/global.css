@@ -149,8 +149,8 @@ table {
   text-wrap: balance;
 }
 
-.img {
-  max-width: fit-content;
-  float: right;
-  
+img {
+
+  height: 300px;
+  text-wrap:wrap;
 }
