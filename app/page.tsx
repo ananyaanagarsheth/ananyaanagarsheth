@@ -15,7 +15,7 @@ export default function Page() {
        <ul className="mb-4">
           <li>CAD-Solidworks</li>
           <li>Programming: HTML, CSS, Github, Python, R, Javascript,
-                           React, Next.js, Vercel
+                           React, Next.js, Vercel, Looker
           </li>
           </ul>
       </div>
