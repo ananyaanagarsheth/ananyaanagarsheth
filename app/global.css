@@ -154,3 +154,7 @@ img {
   height: 300px;
   text-wrap:nowrap;
 }
+
+html, body {
+  background-color: rgb(225, 216, 216);
+}
