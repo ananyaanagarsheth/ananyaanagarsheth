@@ -13,7 +13,7 @@ export default function Page() {
       <div className=" ">
       <h3 className='text-xl mb-3 tracking-normal font-bold'>Skills</h3>
        <ul className="mb-4">
-          <li>CAD-Solidworks</li>
+          <li>CAD: Solidworks</li>
           <li>Programming: HTML, CSS, Github, Python, R, Javascript,
                            React, Next.js, Vercel, Looker
           </li>
